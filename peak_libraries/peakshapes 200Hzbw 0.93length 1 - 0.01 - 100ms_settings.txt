@@ -1,0 +1,6 @@
+bandwidth: 200 rad/s (32 Hz)
+mode number: 2
+max channel length: 0.930
+samples per peak: 1000
+range of transit times: 0.0010 - 0.1000 sec
+transit time step size: 0.0000 sec
